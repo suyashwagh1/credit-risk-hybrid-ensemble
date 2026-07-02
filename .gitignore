@@ -1,0 +1,5 @@
+*.pkl
+*.pth
+cs-training.csv
+__pycache__/
+.ipynb_checkpoints/
