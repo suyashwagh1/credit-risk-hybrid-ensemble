@@ -8,6 +8,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-deployed-ff4b4b)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
+LIVE Streamlit- https://credit-risk-hybrid-ensemble-pc2l9vupdhbswcofktrhbs.streamlit.app/
 ---
 
 ## Why this project exists
