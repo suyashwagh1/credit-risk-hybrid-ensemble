@@ -1,0 +1,6 @@
+streamlit
+joblib
+torch
+scikit-learn
+xgboost
+numpy
